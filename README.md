@@ -1,3 +1,9 @@
+#To loco 
+Sistema para controle de contas em diversos clientes, funciona como uma caderneta virtual, semelhante as utilizadas em mercearias. 
+ 
+_Este pequeno sistema não tem o intuito de ser utilizado em larga escala. Mantendo o foco em estudos e aplicação em casos específicos._
+
+
 # Slim Framework 3 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
